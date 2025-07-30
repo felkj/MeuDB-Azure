@@ -51,7 +51,7 @@ Este repositório tem como objetivo documentar o processo de criação, configur
 - Defina o servidor (crie um se necessário, com usuário e senha)
 - Região: escolha a mais próxima (ex: Brazil South)
 
-📷 *[Configuração](/images/2-configuracao.png)*
+📷 *![Configuração](/images/2-configuracao.png)*
 
 ---
 
@@ -60,7 +60,7 @@ Este repositório tem como objetivo documentar o processo de criação, configur
 - Para testes, pode-se escolher a camada **Gratuita** (quando disponível) ou **Basic**
 - Escolher o tamanho da instância de acordo com sua necessidade (DTUs ou vCores)
 
-📷 *[Seleção de Plano](/images/3-plano.png)*
+📷 *![Seleção de Plano](/images/3-plano.png)*
 
 ---
 
@@ -69,7 +69,7 @@ Este repositório tem como objetivo documentar o processo de criação, configur
 - Permitir acesso ao IP atual
 - Opcional: permitir outras faixas de IP ou uso interno (VNet)
 
-📷 *[Firewall](/images/4-firewall.png)*
+📷 *![Firewall](/images/4-firewall.png)*
 
 ---
 
